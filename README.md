@@ -1,5 +1,5 @@
 # Precincts
 
-## Currently for Sheridan County Wyoming
+## Current State(s)
 
-### 02-02
+### Wyoming
