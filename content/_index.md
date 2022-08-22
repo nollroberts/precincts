@@ -1,10 +1,7 @@
 # State
 ## Precinct
-
-### News
-
-#### Citizenry
-##### Groups
-
-#### Political Parties 
-##### Groups
+- News
+    - Citizenry
+        - Groups
+    - Political Parties 
+        -  Groups
